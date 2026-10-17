@@ -23,3 +23,8 @@ Contributions
 Have a useful AI tool to recommend? Suggestions are welcome when they include the tool's official website and a clear description.
 
 Tip: Always verify AI-generated information and protect private data when using online tools. 
+More AI Learning Resources
+
+- [A 20-Minute AI Study Session: Learn, Practise, and Review](https://dev.to/huxaifa_majeed_48adbd4db3/a-20-minute-ai-study-session-learn-practise-and-review-41bn)
+
+Explore more beginner-friendly AI tutorials on the [Everyday AI Tools Blog](https://everydayaitools11.blogspot.com/).
